@@ -38,10 +38,5 @@ What problems did you encounter and how did you solve them?
 ![Screenshot description](path/to/screenshot.png)
 <img width="830" height="185" alt="image" src="https://github.com/user-attachments/assets/d13457b3-8d73-4fad-86d1-0d1992c6f9ef" />
 
-
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
-
-
-
-
