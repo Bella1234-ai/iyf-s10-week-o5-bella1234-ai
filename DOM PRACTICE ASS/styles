@@ -1,0 +1,20 @@
+const container = document.querySelector(".container");
+
+// Inline styles
+container.style.backgroundColor = "#f0f0f0";
+container.style.padding = "30px";
+container.style.borderRadius = "8px";
+
+// Multiple styles (use classes instead when possible!)
+Object.assign(container.style, {
+    backgroundColor: "#333",
+    color: "white",
+    padding: "20px"
+});
+
+// CSS classes
+container.classList.add("highlight");
+container.classList.remove("highlight");
+container.classList.toggle("highlight");    // Adds if not present, removes if present
+console.log(container.classList.contains("highlight"));  // true or false     
+    
